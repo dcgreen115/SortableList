@@ -6,3 +6,4 @@ Allows for the creation of lists that can be easily and efficiently sorted in Ja
 * Add support for lists including floating point numbers
 * Add the ability to alphabetize lists of Strings
 * Test functionality with negative numbers
+* Create additional constructors so that the SortableList class can be used like the ArrayList class
