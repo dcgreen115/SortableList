@@ -102,7 +102,7 @@ public class SortableList<E> extends ArrayList<Integer> {
     }
 
     /**
-     * Finds the maximum number of digits that the numbers this list contains
+     * Finds the maximum number of digits that the numbers within this list contain
      * @return The maximum number of digits found
      */
     private int findMaxDigits() {
